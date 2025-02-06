@@ -12,7 +12,7 @@ This project aims to enhance the accuracy of breast cancer detection using machi
 ## Installation
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/breast-cancer-detection.git
+git clone https://github.com/riamahajan/Breast-Cancer-Detection.git
 ```
 Ensure Python 3 and necessary libraries like TensorFlow, Keras, and Scikit-Learn are installed.
 
@@ -20,12 +20,12 @@ Ensure Python 3 and necessary libraries like TensorFlow, Keras, and Scikit-Learn
 To use this project, follow these steps:
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/breast-cancer-detection.git
+   git clone https://github.com/riamahajan/Breast-Cancer-Detection.git
    ```
 2. Navigate to the project directory and open the Jupyter Notebook:
    ```bash
-   cd breast-cancer-detection
-   jupyter notebook breast_cancer_detection.ipynb
+   cd Breast-Cancer-Detection
+   jupyter notebook Breast-Cancer-Detection.ipynb
    ```
 3. Run the cells in the notebook to train the models and see the evaluations.
 
