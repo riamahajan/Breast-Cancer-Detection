@@ -1,2 +1,0 @@
-# BCD
-Breast Cancer Detection
