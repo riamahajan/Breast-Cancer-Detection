@@ -35,4 +35,4 @@ The system outputs the classification results indicating the presence of benign 
 Contributions to improve the model accuracy and efficiency are welcome. Please ensure to follow the existing code style and add unit tests for any new functionality.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication - see the LICENSE file for details.
